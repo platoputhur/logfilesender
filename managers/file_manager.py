@@ -1,3 +1,6 @@
+#   MIT License
+#   Copyright (c) 2021. Plato Puthur
+
 import json
 import os
 

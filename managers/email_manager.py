@@ -1,3 +1,6 @@
+#   MIT License
+#   Copyright (c) 2021. Plato Puthur
+
 from smtplib import SMTP, SMTPConnectError, SMTPAuthenticationError
 import ssl
 from config.config import Configurator
